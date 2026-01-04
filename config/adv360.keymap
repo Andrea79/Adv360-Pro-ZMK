@@ -35,13 +35,13 @@
 
         Command-Tab-Right {
             bindings = <&kp LG(TAB)>;
-            key-positions = <73 67>;
+            key-positions = <73 47>;
             layers = <2>;
         };
 
         Command-Tilde {
             bindings = <&kp LG(GRAVE)>;
-            key-positions = <67 73>;
+            key-positions = <73 67>;
             layers = <2>;
         };
     };

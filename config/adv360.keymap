@@ -33,15 +33,15 @@
     combos {
         compatible = "zmk,combos";
 
-        Command-Tab {
+        Command-Tab-Right {
             bindings = <&kp LG(TAB)>;
-            key-positions = <68 83>;
+            key-positions = <73 67>;
             layers = <2>;
         };
 
         Command-Tilde {
             bindings = <&kp LG(GRAVE)>;
-            key-positions = <68 67>;
+            key-positions = <67 73>;
             layers = <2>;
         };
     };
